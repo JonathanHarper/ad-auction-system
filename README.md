@@ -1,7 +1,6 @@
 # Ad Auction System  
 
-Dashboard for displaying and filtering key metrics of an ad campaign. Created for COMP2211: Software Engineering Group Project (2016-2017  
-
+Dashboard for displaying and filtering key metrics of an ad campaign. Created for COMP2211: Software Engineering Group Project (2016-2017)  
 ###### Developers:
 Jonathan Harper - jh47g15  
 Adrian Kamulegeya - ak13g15  
